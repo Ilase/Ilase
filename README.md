@@ -1,2 +1,3 @@
 # Ilase
-description
+Making my own empire...
+Languages: C/C++, Dart 
